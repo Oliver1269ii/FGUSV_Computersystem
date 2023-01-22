@@ -234,7 +234,7 @@ def main():
         
         def console():
             
-            print("\n Udlånings Console [version 1.6]\n Created by Oliver Larsen (2023) \n Some things you do in here are permanent, so BE CAREFUL")
+            print("\n Udlånings Console [version 1.7]\n Created by Oliver Larsen (2023) \n Some things you do in here are permanent, so BE CAREFUL")
             print('''
  Type "Help" for help''')
             
